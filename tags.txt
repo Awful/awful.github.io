@@ -177,6 +177,7 @@ fyad-smallthread.png
 fyad-socks.png
 fyad-space.png
 fyad-speedrun.png
+fyad-spiny.png
 fyad-starcraft.png
 fyad-suts.png
 fyad-thuggery.png
@@ -513,6 +514,9 @@ wrestling-roh.png
 wrestling-sd.png
 ww-denim.png
 YCS-01.png
+YCS-02.png
+YCS-04.png
+YCS-05.png
 ycs-achieve.png
 ycs-girl.png
 ycs-goomba.png
@@ -520,6 +524,10 @@ ycs-jap.png
 ycs-jc.png
 ycs-letsgo.png
 ycs-link.png
+ycs-metal.png
+ycs-redring.png
+ycs-sega.png
+ycs-violence.png
 yospos-blurit.png
 YOSPOS-DOS.png
 yospos-hackersafe.png
