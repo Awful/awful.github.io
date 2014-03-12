@@ -397,6 +397,7 @@ psp-rumble.png
 psp-thonglor.png
 psp-tuf.png
 psp-ufc.png
+qcs-green.png
 question.png
 rant.png
 repeat.png
@@ -518,6 +519,7 @@ YCS-02.png
 YCS-04.png
 YCS-05.png
 ycs-achieve.png
+ycs-emotion.png
 ycs-girl.png
 ycs-goomba.png
 ycs-jap.png
@@ -525,6 +527,7 @@ ycs-jc.png
 ycs-letsgo.png
 ycs-link.png
 ycs-metal.png
+ycs-ps3.png
 ycs-redring.png
 ycs-sega.png
 ycs-violence.png
