@@ -120,6 +120,14 @@ dd-offmeds.png
 dd-philosophy.png
 dd-religion.png
 dd-war.png
+ddrd-dota.png
+ddrd-fuel.png
+ddrd-gameboy.png
+ddrd-lol.png
+ddrd-minus.png
+ddrd-neogeo.png
+ddrd-scsa.png
+ddrd-souls.png
 diy-advice.png
 diy-homeimprove.png
 diy-robots.png
@@ -390,6 +398,7 @@ politics.png
 poll.png
 psp-grappling.png
 psp-itstime.png
+psp-japan.png
 psp-k1.png
 psp-mma.png
 psp-pride.png
