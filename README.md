@@ -5,6 +5,20 @@ Stuff hosted at http://awfulapp.com.
 
 [Awful.app][] uses this to download updated thread tags without requiring a full update through the App Store. Other apps, services, etc. are welcome to do the same so long as they adhere to the [thread tag license][].
 
+Thread Tags
+-----------
+
+Thread tags are stored in a [separate repository][Thread Tags.git] (so others can more easily use them if they want). After adding new thread tags, here's how to update the site:
+
+```bash
+cd path/to/awful/site
+cd Thread\ Tags
+git pull origin master
+cd ..
+git commit -am "Updated thread tags."
+git push
+```
+
 tags.txt
 --------
 
@@ -24,3 +38,4 @@ This ensures `tags.txt` is up-to-date whenever you update the Thread Tags submod
 [gentags.sh]: gentags.sh
 [tags.txt]: tags.txt
 [thread tag license]: https://github.com/Awful/thread-tags/blob/master/LICENSE.txt
+[Thread Tags.git]: https://github.com/Awful/thread-tags
