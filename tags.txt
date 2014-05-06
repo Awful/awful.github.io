@@ -55,14 +55,19 @@ byob-dont.png
 byob-excuse.png
 byob-explosion.png
 byob-friends.png
+byob-fuckyou.png
 byob-gents.png
 byob-grouch.png
+byob-grumpy.png
+byob-pizzatime.png
 byob-post.png
+byob-safespace.png
 byob-salt.png
 byob-secrets.png
 byob-shocking.png
 byob-slax.png
 byob-slayer.png
+byob-sore.png
 byob-soulja.png
 byob-treasure.png
 byob-xfile.png
@@ -254,6 +259,7 @@ hell-boot.png
 hell-fuckthis.png
 hell-glomp.png
 hell-hive.png
+hell-jabroni.png
 hell-jorts.png
 hell-miso.png
 hell-spergin.png
@@ -469,6 +475,7 @@ sports-wwe.png
 sports.png
 steam.png
 stupid.png
+tag-thrad.png
 tava-analog.png
 tava-cables.png
 tava-cellphone.png
@@ -545,6 +552,7 @@ ycs-metal.png
 ycs-ps3.png
 ycs-redring.png
 ycs-sega.png
+ycs-taint.png
 ycs-violence.png
 yospos-blurit.png
 YOSPOS-DOS.png
