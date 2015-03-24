@@ -22,6 +22,7 @@ AICA-TAG-newride.png
 AICA-TAG-race.png
 AICA-TAG-trip.png
 ama.png
+anime.png
 ap-1999.png
 art.png
 asktell-jobs.png
@@ -234,6 +235,7 @@ gip-airforce.png
 gip-army.png
 gip-EMT4.png
 gip-firetruck.png
+gip-fuck.png
 gip-marines.png
 gip-money.png
 gip-navy2.png
