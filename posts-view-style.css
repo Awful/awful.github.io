@@ -1,2 +1,17 @@
 /* This CSS file is inserted in the posts view after the theme's CSS, but before the font scale CSS. It is regularly updated by the app. */
 
+.coder .username:before {
+  background-image: none;
+}
+.idiotking .username:before {
+  background-image: none;
+}
+.diamond .username:before {
+  background-image: none;
+}
+.redpill .username:before {
+  background-image: none;
+}
+.award .username:before {
+  background-image: none;
+}
