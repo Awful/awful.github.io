@@ -43,12 +43,14 @@ bss-discussion.png
 bss-fanboy.png
 bss-indie.png
 bss-manga.png
+BSS-Netflix.png
 bss-new.png
 bss-review.png
 bss-shipping.png
 bss-swag.png
 bss-webcomic.png
 byob-anti.png
+byob-apu2.png
 byob-cheer.png
 byob-chill.png
 byob-dent.png
