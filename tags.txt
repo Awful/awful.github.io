@@ -23,6 +23,7 @@ AICA-TAG-race.png
 AICA-TAG-trip.png
 ama.png
 amine.png
+animehoneypot.png
 ap-1999.png
 art.png
 asktell-jobs.png
@@ -155,6 +156,7 @@ Dorkroom-silkysmooth.png
 drugs.png
 en.png
 event.png
+feces.png
 flame.png
 food.png
 fruity.png
@@ -355,6 +357,7 @@ lp-romhack.png
 lp-rpg.png
 lp-strategy.png
 lp-text.png
+melon.png
 ml-acoustic.png
 ml-amps.png
 ml-bass.png
@@ -415,6 +418,7 @@ pi-bugs.png
 pi-caged.png
 pi-cats.png
 pi-dogs.png
+pi-fierce.png
 pi-fish.png
 pi-herps.png
 politics.png
@@ -463,6 +467,7 @@ sas-hockey2.png
 school.png
 science.png
 serious.png
+seamonkeys.png
 sex.png
 shitpost.png
 shsc-apple.png
