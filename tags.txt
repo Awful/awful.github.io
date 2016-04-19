@@ -234,6 +234,8 @@ fyad.png
 games-360.png
 games-360ps3tag.png
 games-3ds.png
+games-coop.png
+games-dlc.png
 games-ds.png
 games-letsplay.png
 games-ps3.png
@@ -308,6 +310,8 @@ icon-61-comics.png
 icon-dear_richard.png
 icon-honk.png
 icon23-banme.png
+itsame.png
+kirby.png
 lan-asia.png
 lan-canada.png
 lan-europe.png
@@ -384,6 +388,7 @@ movies.png
 music.png
 newbie.png
 news.png
+nintendo.png
 nmd-classical.png
 nmd-country.png
 nmd-electronic.png
