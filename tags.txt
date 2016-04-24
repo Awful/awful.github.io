@@ -168,6 +168,7 @@ event.png
 feces.png
 flame.png
 food.png
+fps.png
 fruity.png
 fyad-alas.png
 fyad-archery.png
@@ -237,7 +238,6 @@ games-3ds.png
 games-coop.png
 games-dlc.png
 games-ds.png
-games-fps.png
 games-letsplay.png
 games-mlg.png
 games-mods.png
