@@ -1,4 +1,3 @@
-Thread%20Tags
 0.0stars.png
 0.5stars.png
 1.0stars.png
@@ -168,6 +167,7 @@ event.png
 feces.png
 flame.png
 food.png
+fps.png
 fruity.png
 fyad-alas.png
 fyad-archery.png
@@ -241,10 +241,14 @@ games-letsplay.png
 games-ps3.png
 games-ps4.png
 games-psp.png
+games-psx-pc-xbox.png
+games-psx-pc.png
 Games-vita.png
 games-wii.png
 games-wiiu.png
 games-xbone.png
+games-xbox-pc.png
+games-xbox-psx.png
 games.png
 gip-airforce.png
 gip-army.png
@@ -383,7 +387,9 @@ ml-guitar.png
 ml-recording.png
 ml-theory.png
 ml-voice.png
+mlg.png
 mods-expert.png
+mods.png
 movies.png
 music.png
 newbie.png
@@ -451,6 +457,7 @@ qcs-green.png
 qcs-mods.png
 question.png
 rant.png
+regret.png
 repeat.png
 request.png
 RP-20a6zc0.png
@@ -594,6 +601,7 @@ yospos-hackersafe.png
 yospos-janitor.png
 yospos-netscape.png
 yospos-web20.png
+youdied.png
 yp-amiga859.png
 yp-apple.png
 yp-bsod.png
