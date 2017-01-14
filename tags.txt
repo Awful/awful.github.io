@@ -238,6 +238,7 @@ games-3ds.png
 games-coop.png
 games-dlc.png
 games-ds.png
+games-f2p.png
 games-letsplay.png
 games-mlg.png
 games-mods.png
@@ -330,6 +331,7 @@ lan-midwest.png
 lan-ne.png
 lan-nw.png
 lan-south.png
+lan-south2.png
 lan-sw.png
 lan-west.png
 LF-24yu5af.png
