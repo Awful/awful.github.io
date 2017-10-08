@@ -602,6 +602,7 @@ ycs-letsgo.png
 ycs-link.png
 ycs-metal.png
 ycs-ps3.png
+ycs-psyched.png
 ycs-redring.png
 ycs-ryu.png
 ycs-sega.png
