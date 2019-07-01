@@ -260,6 +260,7 @@ AICA-TAG-classic.png
 shitpost.png
 fyad-hunting.png
 psp-ufc.png
+tinypastry.png
 RP-seriea.png
 repeat.png
 ap-1999.png
@@ -311,6 +312,7 @@ ama.png
 cell-cdma.png
 3.0stars.png
 tcc-busted.png
+pctag.png
 byob-crayons.png
 fyad-hogyanker.png
 icon-43-game-gamecube.png
@@ -400,6 +402,7 @@ melon.png
 lan-midwest.png
 phiz-donk.png
 hell-spergin.png
+pi-woofwoofwoof.png
 pi-dogs.png
 video.png
 fyad-imgay.png
@@ -607,6 +610,7 @@ sports-nba.png
 tag-thrad.png
 ouya.png
 feces.png
+xboxtag.png
 tviv-cartoon.png
 icon-44-game-gba.png
 games-jewel.png
