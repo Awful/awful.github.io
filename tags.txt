@@ -34,6 +34,7 @@ bb-foreign.png
 bss-discussion.png
 games-psx-pc.png
 psp-k1.png
+RR-aew.png
 shsc-win.png
 wrestling-sd.png
 diy-advice.png
@@ -237,6 +238,7 @@ fyad-horses.png
 tma.png
 fyad-words.png
 tcc-addiction.png
+RR-joshi.png
 lan-south.png
 gip-money.png
 unfunny.png
@@ -394,6 +396,7 @@ fyad-burn.png
 ml-amps.png
 sap-language.png
 icon-41-game-xbox.png
+RR-twitter.png
 fyad-yuck.png
 RP-epl.png
 lp-strategy.png
