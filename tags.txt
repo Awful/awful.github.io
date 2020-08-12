@@ -41,6 +41,7 @@ diy-advice.png
 cd_hype.png
 tg-mafia.png
 games-360ps3tag.png
+qcs-q.png
 fyad-starcraft.png
 byob-dent.png
 dd-dems.png
@@ -55,6 +56,7 @@ asktell-lifestyle.png
 samartd-potions.png
 ddrd-dota.png
 phiz-dontlike.png
+qcs-s.png
 psp-grappling.png
 lan-west.png
 tava-gadget.png
@@ -116,6 +118,7 @@ attention.png
 games-regret.png
 nmd-us.png
 coupon-coupon.png
+RR-joshii.png
 sam-clothing.png
 LF-legacy.png
 tg-cards.png
@@ -143,6 +146,7 @@ coupon-free.png
 pi-birds.png
 ml-feedback.png
 adtrw-hokutonoken.png
+qcs-c.png
 fyad-brews.png
 tfr-box.png
 fyad-dirigibles.png
@@ -238,7 +242,6 @@ fyad-horses.png
 tma.png
 fyad-words.png
 tcc-addiction.png
-RR-joshii.png
 lan-south.png
 gip-money.png
 unfunny.png
