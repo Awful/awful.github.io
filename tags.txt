@@ -44,11 +44,13 @@ games-360ps3tag.png
 qcs-q.png
 fyad-starcraft.png
 byob-dent.png
+ycs-press.png
 dd-dems.png
 games-mlg.png
 LF-2mfbryu.png
 diy-wood.png
 event.png
+tg-scrunt.png
 lf-marx.png
 science.png
 guns-ohshi.png
@@ -113,6 +115,7 @@ CA-TAG-CA-roadbike.png
 fyad-blades.png
 4.5stars.png
 weird.png
+tg-d22.png
 coc-c.png
 attention.png
 games-regret.png
@@ -153,6 +156,7 @@ fyad-dirigibles.png
 ml-theory.png
 question.png
 tcc-rx.png
+pi-badkitty.png
 tava-cables.png
 bb-author.png
 ycs-goomba.png
@@ -266,6 +270,7 @@ shitpost.png
 fyad-hunting.png
 psp-ufc.png
 tinypastry.png
+games-lemmings.png
 RP-seriea.png
 repeat.png
 ap-1999.png
@@ -483,6 +488,7 @@ phiz-rap.png
 tava-analog.png
 fyad-zounds.png
 lf-eurabia.png
+rg-emul.png
 gws-meat.png
 1.0stars.png
 LF-dad.png
@@ -497,6 +503,7 @@ sports-sylvia.png
 cc-poetry.png
 hell-jorts.png
 tcc-research.png
+games-loot.png
 byob-treasure.png
 YCS-04.png
 phiz-prince.png
