@@ -3,3 +3,5 @@ exclude:
   README.md
   gentags.sh
   LICENSE.txt
+
+theme: jekyll-theme-cayman
