@@ -13,7 +13,7 @@ Thread tags are stored in a [separate repository][Thread Tags.git] (so others ca
 ```bash
 cd path/to/awful/site
 cd Thread\ Tags
-git pull origin master
+git pull origin main
 cd ..
 git commit -am "Updated thread tags."
 git push
