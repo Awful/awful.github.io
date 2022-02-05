@@ -205,6 +205,7 @@ RP-20a6zc0.png
 AICA-TAG-newride.png
 hell-miso.png
 3.5stars.png
+BYOPizzaTacosTag.png
 psp-tuf.png
 games-xbone.png
 byob-excuse.png
@@ -456,6 +457,7 @@ coc-binbash.png
 tffeyes.png
 cc-design.png
 cc-writing.png
+BYOPizzaTag.png
 cd_comedy.png
 shsc-networking.png
 humor.png
@@ -535,6 +537,7 @@ bss-3.png
 hell-stfu.png
 diy-homeimprove.png
 pigfuckin.png
+BYOTacosTag.png
 dd-gotcha.png
 switchtag.png
 pi-cats.png
